@@ -6,7 +6,7 @@ Performing LSB method of Steganography and Watermarking in images
 This is a simple method of Steganography and Watermarking usind the Least Significant Bit (LSB) technique.
 
 encode.m and decode.m are Steganographic techniques.
-embed.m and recover.m are Watermarkign techniques.
+embed.m and recover.m are Watermarkig techniques.
 message.txt is the message to be hidded.
 
 1. encode.m  - This contains the Steganographic technique of hiding a secret image into an original image. It also hides a message which is stored as text file with a delimiter "%". This will also show the graph of diference between the original and the secret image.
